@@ -35,7 +35,7 @@ Ultrasonic sensors, commonly used for distance measurement, operate using high-f
   - The ECHO pin is used to receive the reflected pulses. When the ultrasonic pulse hits the target and reflects back, the ECHO pin receives the reflected signal.
   - The duration for which the ECHO pin remains HIGH indicates the time taken for the pulse to travel to the target and back. By measuring this time and using the speed of sound, the distance can be accurately calculated.
 
-## Configuration
+## Configuration STM32
 
 The timer must be configured to operate in Input Capture mode, and the Counter Period should be set to 0xFFFF. Then, the timer's Prescaler should be configured so that the timer clock is set to 1 MHz. This means that 1 microsecond elapses for each clock pulse.
 
