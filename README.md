@@ -37,6 +37,10 @@ Ultrasonic sensors, commonly used for distance measurement, operate using high-f
 
 ![Ultrasonic](./Images/Ultransonic.gif)
 
+## Circuit in Proteus 
+
+![Circuit](./Images/Circuit.png)
+
 ## Configuration STM32
 
 The timer must be configured to operate in Input Capture mode, and the Counter Period should be set to 0xFFFF. Then, the timer's Prescaler should be configured so that the timer clock is set to 1 MHz. This means that 1 microsecond elapses for each clock pulse.
@@ -117,3 +121,5 @@ void HAL_TIM_IC_CaptureCallback(TIM_HandleTypeDef *htim) {
     }
 }
 ```
+## Final Result 
+![Final Result](./Images/FinalResult.png)
