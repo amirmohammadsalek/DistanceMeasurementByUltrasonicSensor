@@ -39,7 +39,7 @@ Ultrasonic sensors, commonly used for distance measurement, operate using high-f
 
 ## Circuit in Proteus 
 
-![Circuit](./Images/Circuit.png)
+![Circuit](./Images/circuit.png)
 
 ## Configuration STM32
 
