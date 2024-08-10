@@ -1,0 +1,18 @@
+Add Component: Footprint Not Found FB 0603
+Add Component: Footprint Not Found FB 0603
+Add Component: Footprint Not Found PCBComponent_1
+Add Component: Footprint Not Found OSC_X322516MLB4SI
+Add Pin To Net: Unknown Pin: Pin F1-1
+Add Pin To Net: Unknown Pin: Pin F1-2
+Add Pin To Net: Unknown Pin: Pin F2-1
+Add Pin To Net: Unknown Pin: Pin F2-2
+Add Pin To Net: Unknown Pin: Pin RST1-1
+Add Pin To Net: Unknown Pin: Pin RST1-2
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Add Pin To Net: Unknown Pin: Pin X1-3
+Add Pin To Net: Unknown Pin: Pin X1-4
+Add Class Member: Failed to add class member : Component F1 Ferrite Bead
+Add Class Member: Failed to add class member : Component F2 Ferrite Bead
+Add Class Member: Failed to add class member : Component RST1 Push Button Smd1
+Add Class Member: Failed to add class member : Component X1 X322516MLB4SI

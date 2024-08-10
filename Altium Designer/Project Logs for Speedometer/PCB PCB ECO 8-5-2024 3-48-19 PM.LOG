@@ -1,0 +1,192 @@
+Add Component: Footprint Not Found PCBComponent_1
+Added Component: Designator=DS1(LED SMD 0805 - Geeen)
+Added Component: Designator=DS2(LED SMD 0805 - Geeen)
+Added Component: Designator=DS3(LED SMD 0805 - Geeen)
+Added Component: Designator=H1(21-0041B_8)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MAX3490EESA/GH9-T/Analog+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MAX3490EESA/GH9-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MAX3490EESA/GH9-T/Analog+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found PCBComponent_1
+Added Component: Designator=P1(AdaptorConnector)
+Add Component: Footprint Not Found 1x5 2mm-No3D
+Add Component: Footprint Not Found HDR1X4
+Add Component: Footprint Not Found PCBComponent_1
+Add Component: Footprint Not Found PCBComponent_1
+Add Component: Footprint Not Found ADA4807-4ARUZ_ADI
+Add Component: Footprint Not Found PCBComponent_1
+Add Component: Footprint Not Found PCBComponent_1
+Add Component: Footprint Not Found ST_64_2_ADI
+Add Component: Footprint Not Found SC70 6L
+Add Component: Footprint Not Found USB4105_GCT
+Add Component: Footprint Not Found Crystal3225
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin DB1-2
+Add Pin To Net: Unknown Pin: Pin DB1-3
+Add Pin To Net: Unknown Pin: Pin DB1-4
+Add Pin To Net: Unknown Pin: Pin DB1-5
+Add Pin To Net: Unknown Pin: Pin DB1-7
+Add Pin To Net: Unknown Pin: Pin DB1-8
+Add Pin To Net: Unknown Pin: Pin DB1-9
+Added Pin To Net: NetName=NetDS1_1 Pin=DS1-1
+Added Pin To Net: NetName=GND Pin=DS1-2
+Added Pin To Net: NetName=NetDS2_1 Pin=DS2-1
+Added Pin To Net: NetName=GND Pin=DS2-2
+Added Pin To Net: NetName=NetDS3_1 Pin=DS3-1
+Added Pin To Net: NetName=GND Pin=DS3-2
+Added Pin To Net: NetName=3V3 Pin=H1-1
+Added Pin To Net: NetName=UART_RX Pin=H1-2
+Added Pin To Net: NetName=UART_TX Pin=H1-3
+Added Pin To Net: NetName=GND Pin=H1-4
+Added Pin To Net: NetName=422T+ Pin=H1-5
+Added Pin To Net: NetName=422T- Pin=H1-6
+Added Pin To Net: NetName=422R- Pin=H1-7
+Added Pin To Net: NetName=422R+ Pin=H1-8
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Added Pin To Net: NetName=12V Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Add Pin To Net: Unknown Pin: Pin P2-1
+Add Pin To Net: Unknown Pin: Pin P2-2
+Add Pin To Net: Unknown Pin: Pin P2-3
+Add Pin To Net: Unknown Pin: Pin P2-4
+Add Pin To Net: Unknown Pin: Pin P2-5
+Add Pin To Net: Unknown Pin: Pin P3-1
+Add Pin To Net: Unknown Pin: Pin P3-2
+Add Pin To Net: Unknown Pin: Pin P3-3
+Add Pin To Net: Unknown Pin: Pin P3-4
+Add Pin To Net: Unknown Pin: Pin RST1-1
+Add Pin To Net: Unknown Pin: Pin RST1-2
+Add Pin To Net: Unknown Pin: Pin tan1-1
+Add Pin To Net: Unknown Pin: Pin tan1-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U2-9
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Add Pin To Net: Unknown Pin: Pin U3-6
+Add Pin To Net: Unknown Pin: Pin U3-7
+Add Pin To Net: Unknown Pin: Pin U3-8
+Add Pin To Net: Unknown Pin: Pin U3-9
+Add Pin To Net: Unknown Pin: Pin U3-11
+Add Pin To Net: Unknown Pin: Pin U3-12
+Add Pin To Net: Unknown Pin: Pin U3-13
+Add Pin To Net: Unknown Pin: Pin U3-14
+Add Pin To Net: Unknown Pin: Pin U3-15
+Add Pin To Net: Unknown Pin: Pin U3-16
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-7
+Add Pin To Net: Unknown Pin: Pin U5-8
+Add Pin To Net: Unknown Pin: Pin U5-9
+Add Pin To Net: Unknown Pin: Pin U5-10
+Add Pin To Net: Unknown Pin: Pin U5-11
+Add Pin To Net: Unknown Pin: Pin U5-16
+Add Pin To Net: Unknown Pin: Pin U5-17
+Add Pin To Net: Unknown Pin: Pin U5-18
+Add Pin To Net: Unknown Pin: Pin U5-19
+Add Pin To Net: Unknown Pin: Pin U5-20
+Add Pin To Net: Unknown Pin: Pin U5-24
+Add Pin To Net: Unknown Pin: Pin U5-27
+Add Pin To Net: Unknown Pin: Pin U5-28
+Add Pin To Net: Unknown Pin: Pin U5-29
+Add Pin To Net: Unknown Pin: Pin U5-30
+Add Pin To Net: Unknown Pin: Pin U5-31
+Add Pin To Net: Unknown Pin: Pin U5-32
+Add Pin To Net: Unknown Pin: Pin U5-33
+Add Pin To Net: Unknown Pin: Pin U5-34
+Add Pin To Net: Unknown Pin: Pin U5-35
+Add Pin To Net: Unknown Pin: Pin U5-36
+Add Pin To Net: Unknown Pin: Pin U5-37
+Add Pin To Net: Unknown Pin: Pin U5-38
+Add Pin To Net: Unknown Pin: Pin U5-39
+Add Pin To Net: Unknown Pin: Pin U5-40
+Add Pin To Net: Unknown Pin: Pin U5-41
+Add Pin To Net: Unknown Pin: Pin U5-42
+Add Pin To Net: Unknown Pin: Pin U5-43
+Add Pin To Net: Unknown Pin: Pin U5-44
+Add Pin To Net: Unknown Pin: Pin U5-45
+Add Pin To Net: Unknown Pin: Pin U5-46
+Add Pin To Net: Unknown Pin: Pin U5-47
+Add Pin To Net: Unknown Pin: Pin U5-48
+Add Pin To Net: Unknown Pin: Pin U5-49
+Add Pin To Net: Unknown Pin: Pin U5-50
+Add Pin To Net: Unknown Pin: Pin U5-51
+Add Pin To Net: Unknown Pin: Pin U5-52
+Add Pin To Net: Unknown Pin: Pin U5-53
+Add Pin To Net: Unknown Pin: Pin U5-54
+Add Pin To Net: Unknown Pin: Pin U5-55
+Add Pin To Net: Unknown Pin: Pin U5-56
+Add Pin To Net: Unknown Pin: Pin U5-57
+Add Pin To Net: Unknown Pin: Pin U5-58
+Add Pin To Net: Unknown Pin: Pin U5-60
+Add Pin To Net: Unknown Pin: Pin U5-61
+Add Pin To Net: Unknown Pin: Pin U5-62
+Add Pin To Net: Unknown Pin: Pin U5-63
+Add Pin To Net: Unknown Pin: Pin U5-64
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin USB1-A1-B12
+Add Pin To Net: Unknown Pin: Pin USB1-A4-B9
+Add Pin To Net: Unknown Pin: Pin USB1-A5
+Add Pin To Net: Unknown Pin: Pin USB1-A6
+Add Pin To Net: Unknown Pin: Pin USB1-A7
+Add Pin To Net: Unknown Pin: Pin USB1-B1-A12
+Add Pin To Net: Unknown Pin: Pin USB1-B4-A9
+Add Pin To Net: Unknown Pin: Pin USB1-B5
+Add Pin To Net: Unknown Pin: Pin USB1-B6
+Add Pin To Net: Unknown Pin: Pin USB1-B7
+Add Pin To Net: Unknown Pin: Pin USB1-shld
+Add Pin To Net: Unknown Pin: Pin X2-1
+Add Pin To Net: Unknown Pin: Pin X2-2
+Add Class Member: Failed to add class member : Component D1 Diode
+Add Class Member: Failed to add class member : Component D2 Diode
+Add Class Member: Failed to add class member : Component DB1 DB9_Right_Female
+Added Member To Class: ClassName=Schematic Member=Component DS1
+Added Member To Class: ClassName=Schematic Member=Component DS2
+Added Member To Class: ClassName=Schematic Member=Component DS3
+Added Member To Class: ClassName=Schematic Member=Component H1 MAX3490EESAGH9-T
+Add Class Member: Failed to add class member : Component L1 SLF7045T-150M1R1-PF
+Added Member To Class: ClassName=Schematic Member=Component P1 AdaptorConnector
+Add Class Member: Failed to add class member : Component P2 1x5 2mm
+Add Class Member: Failed to add class member : Component P3 Header 4
+Add Class Member: Failed to add class member : Component RST1 Push Button Smd1
+Add Class Member: Failed to add class member : Component tan1 Component_1
+Add Class Member: Failed to add class member : Component U1 OPA4387PWT
+Add Class Member: Failed to add class member : Component U2 LMR23630ADDAR
+Add Class Member: Failed to add class member : Component U3 MAX3221ECAE
+Add Class Member: Failed to add class member : Component U5 AD7768-4BSTZ
+Add Class Member: Failed to add class member : Component U6 NUF2221
+Add Class Member: Failed to add class member : Component USB1 USB4105-GF-A
+Add Class Member: Failed to add class member : Component X2 32.768MHz

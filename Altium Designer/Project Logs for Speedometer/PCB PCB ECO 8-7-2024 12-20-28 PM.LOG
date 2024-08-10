@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=SPI_CLK Pin=U2-30
+Removed Pin From Net: NetName=SPI_MISO Pin=U2-31
+Removed Pin From Net: NetName=SPI_MOSI Pin=U2-32
+Change Component Footprint: Designator=R32 Old Footprint=R SMD 0805 New Footprint=6-0805_N
+Change Component Description : Designator=U9 Old Description=Усилитель инструментовки 1 � New Description=Усилитель инструментовки 1 �|епь Rail-to-Rail 8-MSOP
+Change Component Description : Designator=U12 Old Description=Усилитель инструментовки 1 � New Description=Усилитель инструментовки 1 �|епь Rail-to-Rail 8-MSOP
+Change Component Description : Designator=U13 Old Description=Усилитель инструментовки 1 � New Description=Усилитель инструментовки 1 �|епь Rail-to-Rail 8-MSOP
+Added Pin To Net: NetName=SPI_MISO Pin=U2-17
+Added Pin To Net: NetName=SPI_MOSI Pin=U2-18
+Added Pin To Net: NetName=SPI_CLK Pin=U2-52

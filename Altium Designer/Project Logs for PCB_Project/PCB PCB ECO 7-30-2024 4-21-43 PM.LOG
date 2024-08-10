@@ -1,0 +1,19 @@
+Add Component: Footprint Not Found FB 0603
+Add Component: Footprint Not Found FB 0603
+Added Component: Designator=RST1(6-0805_N)
+Add Component: Footprint Not Found OSC_X322516MLB4SI
+Add Pin To Net: Unknown Pin: Pin F1-1
+Add Pin To Net: Unknown Pin: Pin F1-2
+Add Pin To Net: Unknown Pin: Pin F2-1
+Add Pin To Net: Unknown Pin: Pin F2-2
+Added Pin To Net: NetName=NRST Pin=RST1-1
+Added Pin To Net: NetName=GND Pin=RST1-2
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Add Pin To Net: Unknown Pin: Pin X1-3
+Add Pin To Net: Unknown Pin: Pin X1-4
+Added Member To Class: ClassName=Schematic Member=Component C9 Cap
+Add Class Member: Failed to add class member : Component F1 Ferrite Bead
+Add Class Member: Failed to add class member : Component F2 Ferrite Bead
+Added Member To Class: ClassName=Schematic Member=Component RST1 Push Button Smd1
+Add Class Member: Failed to add class member : Component X1 X322516MLB4SI

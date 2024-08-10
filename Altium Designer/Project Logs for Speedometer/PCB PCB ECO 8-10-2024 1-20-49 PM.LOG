@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Change Component Designator: OldDesignator=R? NewDesignator=R24
+Add Component: Footprint Not Found 21-0041B_8
+Add Pin To Net: Unknown Pin: Pin U17-1
+Add Pin To Net: Unknown Pin: Pin U17-2
+Add Pin To Net: Unknown Pin: Pin U17-3
+Add Pin To Net: Unknown Pin: Pin U17-4
+Add Pin To Net: Unknown Pin: Pin U17-5
+Add Pin To Net: Unknown Pin: Pin U17-6
+Add Pin To Net: Unknown Pin: Pin U17-7
+Add Pin To Net: Unknown Pin: Pin U17-8
+Added Member To Class: ClassName=Schematic Member=Component R24 Res1
+Add Class Member: Failed to add class member : Component U17 MAX3490EESAGH9-T
