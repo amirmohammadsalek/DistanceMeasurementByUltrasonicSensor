@@ -20,9 +20,7 @@ Ultrasonic sensors, commonly used for distance measurement, operate using high-f
 5. **Calculating Distance:**
    - Using the time of flight and the speed of sound in air (approximately 343 meters per second at room temperature), the distance between the sensor and the target object can be calculated.
    - The distance calculation formula is:
-     \[
-     \text{Distance} = \frac{\text{Time of Flight} \times \text{Speed of Sound}}{2}
-     \]
+   Distance = (Time of Flight * Speed of Sound)/2
    - The division by 2 accounts for the round trip of the pulse.
 
 ### Roles of TRIG and ECHO Pins
