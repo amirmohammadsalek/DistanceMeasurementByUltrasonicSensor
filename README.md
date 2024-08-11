@@ -42,9 +42,11 @@ Ultrasonic sensors, commonly used for distance measurement, operate using high-f
 ![Circuit](./Images/circuit.png)
 
 ## Configuration STM32
-
+As you see, you must define 7 GPIO Output Pin for LCD to see the result.Then, you should define a timer.
 The timer must be configured to operate in Input Capture mode, and the Counter Period should be set to 0xFFFF. Then, the timer's Prescaler should be configured so that the timer clock is set to 1 MHz. This means that 1 microsecond elapses for each clock pulse.
+At the end you should a GPIO output pin For TRIG pin.
 
+## Code explanation
 ### `void delay(uint16_t time)`
 
 This function provides a delay in microseconds using the TIM1 hardware timer.
